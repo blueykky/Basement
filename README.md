@@ -4,5 +4,5 @@
 + let's do it
 
 ### 2021.02.19
-* go down
-. d 
+* go down  dw
+
