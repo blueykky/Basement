@@ -1,12 +1,14 @@
 # Basement
-## Talk about trading and house tour
+## Let's talk about trading and house tour
 - no code here
-+ let's do it
-* can also
++ share mkt info everyday
+* pls commit any idea you are interested
 
 ### 2021.02.19
 
-change line
+mkt will go down for about 1month,
+300 is on its top for 3days,
+monthly on the way drop,
 
 v
 
