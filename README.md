@@ -1,5 +1,5 @@
-# basement
-## talk about trading and house tour
+# Basement
+## Talk about trading and house tour
 - no code here
 + let's do it
 * can also
